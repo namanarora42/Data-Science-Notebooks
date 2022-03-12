@@ -7,7 +7,7 @@ Posting some of my Jupyter notebooks here as I learned the art of EDA and buildi
 
 * Bike Sharing Demand
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/namanarora97/Data-Science-Notebooks/blob/main/BikeSharingDemand-LinearRegression/bike-sharing-demand-eda-predictive-analytics.ipynb)
+[![Open In Colab](https://github.dev/namanarora97/Data-Science-Notebooks/blob/assets/colab-badge.svg)](https://githubtocolab.com/namanarora97/Data-Science-Notebooks/blob/main/BikeSharingDemand-LinearRegression/bike-sharing-demand-eda-predictive-analytics.ipynb)
 
 The objective of the analysis is to be able to predict the demand for bike sharing services based on historical data. The business wants to understand the key factors which lead to the highest impact on the demand for their services.
 
