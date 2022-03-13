@@ -5,31 +5,31 @@ Posting some of my Jupyter notebooks here as I learned the art of EDA and buildi
 
 ## Index 
 
-* Bike Sharing Demand
+* [Bike Sharing Demand](https://github.com/namanarora97/Data-Science-Notebooks/tree/main/BikeSharingDemand-LinearRegression)
 
 [![Open In Colab](https://github.com/namanarora97/Data-Science-Notebooks/blob/main/assets/colab-badge.svg)](https://githubtocolab.com/namanarora97/Data-Science-Notebooks/blob/main/BikeSharingDemand-LinearRegression/bike-sharing-demand-eda-predictive-analytics.ipynb)
 
 The objective of the analysis is to be able to predict the demand for bike sharing services based on historical data. The business wants to understand the key factors which lead to the highest impact on the demand for their services.
 
-* Countries in Need
+* [Countries in Need](https://github.com/namanarora97/Data-Science-Notebooks/tree/main/Clustering-KMeans-vs-Hierarchical)
 
 [![Open In Colab](https://github.com/namanarora97/Data-Science-Notebooks/blob/main/assets/colab-badge.svg)](https://githubtocolab.com/namanarora97/Data-Science-Notebooks/blob/main/Clustering-KMeans-vs-Hierarchical/clustering-kmeans-hierarchical-comparison.ipynb)
 
 The dataset contains socioeconomic indicators for 167 countries. The aim of the analysis is to identify the countries which should be targeted for financial help by an international NGO.
 
-* Credit Default Risk
+* [Credit Default Risk](https://github.com/namanarora97/Data-Science-Notebooks/tree/main/HomeCredit-Default-Risk-EDA)
 
 [![Open In Colab](https://github.com/namanarora97/Data-Science-Notebooks/blob/main/assets/colab-badge.svg)](https://githubtocolab.com/namanarora97/Data-Science-Notebooks/blob/main/HomeCredit-Default-Risk-EDA/complete-eda-feature-understanding.ipynb)
 
 The project includes univariate and bivariate analyses, feature extraction through an end-to-end exploration and understanding of the dataset.
 
-* House Price Prediction
+* [House Price Prediction](https://github.com/namanarora97/Data-Science-Notebooks/tree/main/HousePricePrediction-Ridge-Lasso)
 
 [![Open In Colab](https://github.com/namanarora97/Data-Science-Notebooks/blob/main/assets/colab-badge.svg)](https://githubtocolab.com/namanarora97/Data-Science-Notebooks/blob/main/HousePricePrediction-Ridge-Lasso/house-price-prediction-ridge-and-lasso-regression.ipynb)
 
 The analysis includes extensive EDA and several treatments applied for missing values in the dataset. A Linear Regression model is built. It is compared against models built using plain old RFE, and then with models built using Ridge and Lasso regression techniques.
 
-* Lead Scoring
+* [Lead Scoring](https://github.com/namanarora97/Data-Science-Notebooks/tree/main/LeadScoring-LogisticRegression)
 
 [![Open In Colab](https://github.com/namanarora97/Data-Science-Notebooks/blob/main/assets/colab-badge.svg)](https://githubtocolab.com/namanarora97/Data-Science-Notebooks/blob/main/HousePricePrediction-Ridge-Lasso/house-price-prediction-ridge-and-lasso-regression.ipynb)
 
